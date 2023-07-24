@@ -1,1 +1,3 @@
-Hello this file contains the string related functions
+hello updating...
+Hello updating file 2..
+Test 2
